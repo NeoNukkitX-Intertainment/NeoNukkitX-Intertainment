@@ -1,15 +1,25 @@
-# NeoNukkitX Team - Команда NeoNukkitX 
+<div align="center">
 
-# Welcome to the official GitHub repository of NeoNukkitX! 
+# 👋 Welcome to NeoNukkitX!
 
-Our team specializes in creating plugins for both Minecraft Bedrock and Java Editions
-We would be absolutely thrilled to have your support, as it motivates us to keep building and improving!
+Welcome to the official GitHub repository of the **NeoNukkitX** organization. 
+Our team specializes in creating high-quality plugins for both **Minecraft Bedrock** and **Java** Editions.
 
-# We would also highly appreciate it if you could check out and subscribe to our sponsors:
+✨ *We would be absolutely thrilled to have your support, as it motivates us to keep building and improving!* ✨
 
-🔗 GitHub: https://github.com/RUSPlugins-Team
+---
 
-Thank you for visiting our projects and repositories!
+### 💖 Support Our Sponsors
 
-Best regards,
-Your NeoNukkitX Team
+We would highly appreciate it if you could support and follow our sponsors:
+
+👉 **[RUSPlugins-Team on GitHub](https://github.com)** 👈
+
+---
+
+🙏 Thank you for visiting our projects and repositories!
+
+**Best regards,**  
+**Your NeoNukkitX Team** 🚀
+
+</div>
