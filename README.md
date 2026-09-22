@@ -12,4 +12,4 @@ We would be absolutely thrilled to have your support, as it motivates us to keep
 Thank you for visiting our projects and repositories!
 
 Best regards,
-# Your NeoNukkitX Team
+Your NeoNukkitX Team
